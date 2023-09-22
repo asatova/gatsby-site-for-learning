@@ -1,0 +1,23 @@
+.header {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.header h2 {
+    font-size: 4em;
+}
+
+.header h3{
+    font-size: 3em;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.btn{
+    display: inline-block;
+    background: #282424;
+    padding: 10px 16px;
+    margin-top:20px;
+    font-weight: 500;
+    width:100px;
+    height: 50px;
+    color: azure;
+}
